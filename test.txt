@@ -1,0 +1,5 @@
+Writing a test string in a file
+
+it is a interesting way how to use command line
+a great learning exprience
+This is trully awesome!
